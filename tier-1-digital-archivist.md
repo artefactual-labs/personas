@@ -1,15 +1,15 @@
 # Cody Chavez
 
-Cody is a digital archivist at a government-funded historical research institution.
+Cody is a digital archivist at historical research institution.
 
 ## Personal profile
 
-Cody is a digital archivist at an extragovernmentally-funded historical institution. They are responsible for overseeing the 
-implementation of a digital preservation system, and they completed an analysis that resulted in the selection of 
-Archivematica  for this purpose. Cody is also responsible for developing policies and procedures that will govern the digital 
-preservation activities of the institution. They are the de facto lead of the digital preservation team at the institution, 
-which also includes developers, systems administrators, and other archivists, and which reports to the head archivist of the 
-institution.
+Cody is the sole digital archivist at an extragovernmentally-funded historical institution. They are responsible for 
+overseeing the implementation of a digital preservation system, and they completed an analysis that resulted in the selection 
+of Archivematica  for this purpose. Cody is also responsible for developing policies and procedures that will govern the 
+digital preservation activities of the institution. They are the de facto lead of the digital preservation team at the 
+institution, which also includes developers, systems administrators, and other archivists, and which reports to the head 
+archivist of the institution.
 
 ## Goals and motivations
 
