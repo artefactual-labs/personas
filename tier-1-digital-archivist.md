@@ -1,4 +1,4 @@
-# Cody Chavez
+# Cody
 
 Cody is a digital archivist at historical research institution.
 
