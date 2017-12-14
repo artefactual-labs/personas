@@ -17,3 +17,8 @@ See also:
 Sara Allain
 
 Sarah Romkey
+
+## Credits
+
+* Rockefeller Archives Centre's [Project Electron](https://github.com/RockefellerArchiveCenter/project_electron/) personas
+* [JISC RDSS](https://github.com/JiscRDSS) project (personas not publicly available)
